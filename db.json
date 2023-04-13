@@ -1,0 +1,66 @@
+{
+  "DrawHBUnit": [
+    {
+        "id": 1,
+        "name_unit": "Introduccion con lapiz HB",
+        "description": "Es el más usado para tomar notas ya que permite una escritura consistente y clara sin dejar marca en el papel.",
+        "Lesson": [
+            {
+                "id": 1,
+                "name_lesson": "Leccion 1"
+            },
+            {
+                "id": 2,
+                "name_lesson": "Leccion 2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name_unit": "Tipos de dibujo con lapiz HB",
+        "description": "Los lápices HB son un intermedio entre la H y la B, esto es, tienen una dureza y una intensidad medias.",
+        "Lesson": [
+            {
+                "id": 1,
+                "name_lesson": "Leccion 1"
+            },
+            {
+                "id": 2,
+                "name_lesson": "Leccion 2"
+            }
+        ]
+    }
+  ],
+  "DrawHBSixUnit": [
+    {
+        "id": 1,
+        "name_unit": "Introduccion con lapiz HB6",
+        "description": "Son perfectos para escribir, dibujar y hacer esbozos.",
+        "Lesson": [
+            {
+                "id": 1,
+                "name_lesson": "Leccion 1"
+            },
+            {
+                "id": 2,
+                "name_lesson": "Leccion 2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name_unit": "Tipos de dibujo con lapiz HB6",
+        "description": "Se puede usar para dibujos sombreados",
+        "Lesson": [
+            {
+                "id": 1,
+                "name_lesson": "Leccion 1"
+            },
+            {
+                "id": 2,
+                "name_lesson": "Leccion 2"
+            }
+        ]
+    }
+  ]
+}
